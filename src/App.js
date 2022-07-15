@@ -6,15 +6,15 @@ const App = () => {
     <p className='heading-text'> 
     React Tic Tac Toe App</p> 
     <div> 
-      X 
+      XXX
     </div>
 
     <div> 
-      X 
+      XXX
     </div>
 
     <div> 
-      X 
+      XXX
     </div>
     </div>
     )
